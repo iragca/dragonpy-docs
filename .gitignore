@@ -1,0 +1,4 @@
+# Python generated files
+.venv/
+__pycache__
+__marimo__
